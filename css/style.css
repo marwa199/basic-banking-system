@@ -1,0 +1,38 @@
+header{
+     background-image: url('../imgs/bground.webp');
+}
+.services{
+     background-image: url('../imgs/bground.webp');
+}
+.services .partial .rounded{
+     background-color:rgb(212, 208, 208) !important;
+}
+.services .partial .rounded:hover{
+     background-color:rgb(233, 231, 231) !important;
+}
+#contact .container .w-25 i{
+     font-size: 50px !important;
+}
+*{
+     padding: 0;
+     margin:0;
+     box-sizing: border-box;
+}
+
+/* dashboard page */
+.heading{
+     background-image:url('../imgs/service2.webp');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+     height:100vh;
+}
+.heading .d-flex .px-5 .btn{
+     background-color: rgba(0, 0, 0,0.5);
+     color: #f1f2f6;
+}
+.heading .d-flex .px-5 a:hover{
+     background-color: rgba(207, 53, 53, 0.4);
+} 
+
+
